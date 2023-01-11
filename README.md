@@ -15,7 +15,7 @@ A simple script to send SMS anonymously.
 
   c) git clone https://github.com/pandoragiann/fake-sms
 
-  d) cd fake-sms then pand +x run.sh
+  d) cd fake-sms then chmod +x run.sh
 
 # Usage:
    Just type bash run.sh
