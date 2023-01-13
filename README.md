@@ -28,7 +28,7 @@ A simple script to send SMS anonymously.
   This script only for educational purpose.
 
 # Credit:
-  If You Like This Tool then Kindly Give Us a star. Thanks...
+  If You Like This Tool then Kindly Give Me a star. Thanks...
 
 # Author:
   a) https://www.twitter.com/pandoragiann
