@@ -3,7 +3,7 @@
 # About:
 A simple script to send SMS anonymously.
 
-# Installation
+# Installation:
 
 1.for termux users:
 
