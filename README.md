@@ -1,10 +1,11 @@
 # fake-sms
 ![120921960-dd6f5600-c6df-11eb-99bf-b5c544172146](https://user-images.githubusercontent.com/122471110/212311851-e96ad15c-6da1-4f9d-a9f1-09aa7886fa61.png) 
 
-## About:
+# About:
+
 A simple script to send SMS anonymously.
 
-### Installation:
+# Installation:
 
 1.for termux users:
 
@@ -16,20 +17,25 @@ A simple script to send SMS anonymously.
 
   d) cd fake-sms then chmod +x run.sh
 
-#### Usage:
+# Usage:
+
    Just type bash run.sh
 
-##### Feature:
+# Feature:
+
   1. SMS ANONYMOUSLY.
   2. YOU CAN SEND ONLY ONE SMS PER DAY.
   3. NO CHARGES ON SENDING SMS.
   4. VERY EASY TO USE.
 
-###### Note:
+# Note:
+
   This script only for educational purpose.
 
-####### Credit:
+# Credit:
+
   If You Like This Tool then Kindly Give Me a star. Thanks...
 
-######## Author:
+# Author:
+
   a) https://www.twitter.com/pandoragiann
