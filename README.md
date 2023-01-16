@@ -21,7 +21,7 @@ A simple script to send SMS anonymously.
 
    Just type:  bash run.sh
 
-# Feature:
+# Features:
 
   1. SMS ANONYMOUSLY.
   2. YOU CAN SEND ONLY ONE SMS PER DAY.
