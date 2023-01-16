@@ -19,7 +19,7 @@ A simple script to send SMS anonymously.
 
 # Usage:
 
-   Just type bash run.sh
+   Just type:  bash run.sh
 
 # Feature:
 
