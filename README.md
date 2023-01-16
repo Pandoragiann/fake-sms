@@ -2,40 +2,29 @@
 ![120921960-dd6f5600-c6df-11eb-99bf-b5c544172146](https://user-images.githubusercontent.com/122471110/212311851-e96ad15c-6da1-4f9d-a9f1-09aa7886fa61.png) 
 
 # About:
-
-A simple script to send SMS anonymously.
+     A simple script to send SMS anonymously.
 
 # Installation:
-
-1.for termux users:
-
-  a) pkg update && pkg upgrade
-
-  b) pkg install git
-
-  c) git clone https://github.com/pandoragiann/fake-sms
-
-  d) cd fake-sms then chmod +x run.sh
+     1.for termux users:
+     a) pkg update && pkg upgrade
+     b) pkg install git
+     c) git clone https://github.com/pandoragiann/fake-sms
+     d) cd fake-sms then chmod +x run.sh
 
 # Usage:
-
-   Just type:  bash run.sh
+     Just type:  bash run.sh
 
 # Features:
-
-  1. SMS ANONYMOUSLY.
-  2. YOU CAN SEND ONLY ONE SMS PER DAY.
-  3. NO CHARGES ON SENDING SMS.
-  4. VERY EASY TO USE.
+     1. SMS ANONYMOUSLY.
+     2. YOU CAN SEND ONLY ONE SMS PER DAY.
+     3. NO CHARGES ON SENDING SMS.
+     4. VERY EASY TO USE.
 
 # Note:
-
-  This script only for educational purpose.
+     Use this script only for educational purpose.
 
 # Credit:
-
-  If You Like This Tool then Kindly Give Me a star. Thanks...
+     If You Like This Tool then Kindly Give Me a star. Thanks...
 
 # Author:
-
-  a) https://www.twitter.com/pandoragiann
+ a. https://www.twitter.com/pandoragiann
