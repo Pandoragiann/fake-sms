@@ -22,6 +22,8 @@
 
 # Note:
      Use this script only for educational purpose.
+     *) If u get the error like Your number was not provided in the E.164 format so wait for sometime.....
+     the error is on the server side and will fix soon:)
 
 # Credit:
      If You Like This Tool then Kindly Give Me a star. Thanks...
