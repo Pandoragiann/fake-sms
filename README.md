@@ -1,6 +1,6 @@
 # fake-sms
+![20230117_115206](https://user-images.githubusercontent.com/122471110/212859283-368e4d8f-009b-41e2-a074-da2ef6035d2d.jpg)
 
-![Uploading 120921960-dd6f5600-c6df-11eb-99bf-b5c544172146.png…]()
 
 
 # About:
