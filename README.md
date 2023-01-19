@@ -17,10 +17,10 @@
      Just type:  bash run.sh
 
 # Features:
-     1. SMS ANONYMOUSLY.
-     2. YOU CAN SEND ONLY ONE SMS PER DAY.
-     3. NO CHARGES ON SENDING SMS.
-     4. VERY EASY TO USE.
++ SMS ANONYMOUSLY.
++ YOU CAN SEND ONLY ONE SMS PER DAY.
++ NO CHARGES ON SENDING SMS.
++ VERY EASY TO USE.
 
 # Note:
      Use this script only for educational purpose.
