@@ -116,7 +116,7 @@ function SENDSMS() {
    read msg
 
 
-   SMSVERIFY=$(curl -# -X POST https://textbelt.com/text --data-urlencode phone="$num" --data-urlencode message="$msg" -d key=textbelt)
+   SMSVERIFY=$(curl -# -X POST https://textbelt.com/NOTICE text --data-urlencode phone="$num" --data-urlencode message="$msg" -d key=textbelt)
    
    if grep -q true <<<"$SMSVERIFY"
    
